@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SeleniumTraining" duration-ms="27537" started-at="2021-05-16T15:56:06Z" finished-at="2021-05-16T15:56:34Z">
+    <groups>
+    </groups>
+    <test name="TestNGScripts" duration-ms="27537" started-at="2021-05-16T15:56:06Z" finished-at="2021-05-16T15:56:34Z">
+      <class name="com.qa.testScripts.TestCase1">
+        <test-method status="PASS" signature="setupmethod()[pri:0, instance:com.qa.testScripts.TestCase1@aa2946]" name="setupmethod" is-config="true" duration-ms="7391" started-at="2021-05-16T15:56:06Z" finished-at="2021-05-16T15:56:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupmethod -->
+        <test-method status="PASS" signature="HomePageTest()[pri:49, instance:com.qa.testScripts.TestCase1@aa2946]" name="HomePageTest" duration-ms="8571" started-at="2021-05-16T15:56:13Z" finished-at="2021-05-16T15:56:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTest -->
+        <test-method status="PASS" signature="CreateAccountPageTest()[pri:50, instance:com.qa.testScripts.TestCase1@aa2946]" name="CreateAccountPageTest" duration-ms="4747" started-at="2021-05-16T15:56:22Z" finished-at="2021-05-16T15:56:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAccountPageTest -->
+        <test-method status="PASS" signature="navigateTest()[pri:51, instance:com.qa.testScripts.TestCase1@aa2946]" name="navigateTest" duration-ms="6750" started-at="2021-05-16T15:56:27Z" finished-at="2021-05-16T15:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTest -->
+      </class> <!-- com.qa.testScripts.TestCase1 -->
+    </test> <!-- TestNGScripts -->
+  </suite> <!-- SeleniumTraining -->
+</testng-results>
