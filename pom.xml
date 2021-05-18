@@ -48,4 +48,10 @@
     </dependency>
     </dependencies>
   
+  <properties>
+  <sonar.core.codeCoveragePlugin>jacoco</sonar.core.codeCoveragePlugin>
+  <sonar.jacoco.reportPath>${project.basedir}/../target/jacoco.exec</sonar.jacoco.reportPath>
+  <sonar.language>java</sonar.language>
+  </properties>
+  
 </project>
